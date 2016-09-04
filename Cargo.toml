@@ -1,0 +1,13 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [ "Andrei Vasiliu <andreivasiliu@users.sourceforge.net>" ]
+
+[dependencies]
+
+rand = "0.3.0"
+piston_window = "*"
+piston2d-gfx_graphics = "*"
+piston = "*"
+vecmath = "*"
